@@ -1,0 +1,15 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+requests==2.32.3
+aiohttp==3.10.5
+beautifulsoup4==4.12.3
+lxml==5.3.0
+tqdm==4.66.5
+openai==1.51.2          # or google-generativeai if you prefer Gemini
+tavily-python==0.3.5     # optional (swap for Google CSE if desired)
+pdfplumber==0.11.4       # optional: quick PDF sanity checks
+python-slugify==8.0.4
+streamlit==1.39.0        # for local Streamlit frontend
+supabase==2.4.0

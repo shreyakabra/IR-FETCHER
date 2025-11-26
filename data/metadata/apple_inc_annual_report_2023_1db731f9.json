@@ -1,0 +1,12 @@
+{
+  "company": "Apple Inc.",
+  "doc_type": "annual report",
+  "year": 2023,
+  "file_path": "./data/downloads\\apple_inc\\annual_report\\2023\\apple_inc_annual_report_2023.pdf",
+  "filename": "apple_inc_annual_report_2023.pdf",
+  "url": "https://stocklight.com/stocks/us/nasdaq-aapl/apple/annual-reports/nasdaq-aapl-2023-10K-231373899.pdf",
+  "sha256": "1db731f92d721d39c6cd7fc54dd22b4c42a50c70312fd8100c69a8e3add55d05",
+  "mimetype": "application/pdf",
+  "source": "Tavily",
+  "indexed_at": 1764004413
+}

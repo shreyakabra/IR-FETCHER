@@ -1,0 +1,12 @@
+{
+  "company": "Apple Inc.",
+  "doc_type": "annual report",
+  "year": 2023,
+  "file_path": "./data/downloads\\apple_inc\\annual_report\\2023\\apple_inc_annual_report_2023.pdf",
+  "filename": "apple_inc_annual_report_2023.pdf",
+  "url": "https://investor.apple.com/files/doc_earnings/2023/q4/filing/_10-K-Q4-2023-As-Filed.pdf",
+  "sha256": "e36d41ed3a32874efba3e33dc89ef7e1329e32a26e91b453cb0e9b680288a783",
+  "mimetype": "application/pdf",
+  "source": "Tavily",
+  "indexed_at": 1764140238
+}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,48 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Python bytecode files
+_pycache_/
+*.pyc
+*.pyo
+
+# Virtual environment directory
+venv/
+.env/  # If you have a virtual environment or environment-specific files
+.env.example.txt
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files created by the operating system
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Package distribution folders
+build/
+dist/
+.eggs/
+*.egg-info/
+*.tgz
+
+# Database files (e.g., SQLite)
+*.sqlite3
+
+# Test output (if any)
+*.coverage
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Static files
+static/
+>>>>>>> 24a1f7f (Initial commit)
